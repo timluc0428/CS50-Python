@@ -1,28 +1,34 @@
-*** terminal commands
+### terminal commands
 
-*create a python file named file_name
-  code file_name.py 
+*create a python file named file_name*   
+  ```code file_name.py ```
 
-*list all files in current folder
-ls 
+
+*list all files in current folder*  
+  ```ls ```
+
 
 *copy file*  
-cp
+  ```cp```
 
-*move file*
-mv
 
-*remove file*
-rm
+*move file*  
+  ```mv```
 
-*make a directory*
-mkdir
 
-*change directory*
-cd
+*remove file*  
+  ```rm```
 
-*remove a directory*
-rmdir
 
-*clear the terminal*
-clear
+*make a directory*  
+  ```mkdir```
+
+
+*change directory*  
+  ```cd```
+
+*remove a directory*  
+  ```rmdir```
+
+*clear the terminal*  
+  ```clear```

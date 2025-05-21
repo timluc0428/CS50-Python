@@ -1,9 +1,9 @@
 *** terminal commands
 
-# create a python file named file_name
+*create a python file named file_name
   code file_name.py 
 
-# list all files in current folder
+*list all files in current folder
 ls 
 
 *copy file*  
